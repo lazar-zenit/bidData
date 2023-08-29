@@ -31,3 +31,4 @@ all_fungi_clean=all_fungi[columns_to_copy].copy().sort_values(by=['scientificNam
 all_fungi_clean.to_excel("all_fungi_gbif_clean.xlsx")
 all_fungi_clean.to_csv("all_fungi_gbif_clean.csv")
 
+
