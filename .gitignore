@@ -161,3 +161,5 @@ cython_debug/
 TaxonAncestryFinder/Popis_mikoloska.xlsx
 TaxonAncestryFinder/taxa.csv
 TaxonAncestryFinder/~$Popis_mikoloska.xlsx
+TaxonAncestryFinder/taxa_eksel.xlsx
+TaxonAncestryFinder/output_taxon_ancestry.xlsx
