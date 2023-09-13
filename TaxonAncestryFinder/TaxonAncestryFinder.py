@@ -1,81 +1,35 @@
-#WORK IN PROGRESS
-
 import pandas as pd
 import os
 import time
+
+#start the timer
 start=time.time()
 
-file_path_vault=os.path.abspath("Z:/Programiranje/bidData/bidData/TaxonAncestryFinder/taxa.csv")
+#absolute paths
+file_path_vault=os.path.abspath("Z:/Programiranje/bidData/bidData/TaxonAncestryFinder/genus_data.csv")
 file_path_database=os.path.abspath("Z:/Programiranje/bidData/bidData/TaxonAncestryFinder/Popis_mikoloska.xlsx")
 
-taxon_vault=pd.read_csv(file_path_vault)
+#read files into dataframes
+genus_vault=pd.read_csv(file_path_vault)
 df=pd.read_excel(file_path_database, "Gljive")
 
-print(taxon_vault.head())
-print(df.head())
 
-#%%
-# first, split scientificName to get the genus
-num_rows=len(df.index)
-print(num_rows)
+#make new dataframe, split binomial name into genus and species, delete species name and make a list of genera
+df2=pd.DataFrame()
+df2[['genus', 'species_temp']]=df['scientificName'].str.split(n=1, expand=True)
+df2.drop(columns=['species_temp'], inplace=True)
+compare_list=df2['genus'].tolist()
 
-df[['genus', 'species_temp']]=df['scientificName'].str.split(n=1, expand=True)
-df.drop(columns=['species_temp'])
-compare_list=df['genus'].tolist()
-print(compare_list)
+#find all instances of genera from the list, drop duplicates and uneccesary columns
+ancestry=(genus_vault[genus_vault['genus'].isin(compare_list)])
+ancestry=ancestry.drop_duplicates(subset='genus', keep='first')
+ancestry=ancestry.drop(columns=['scientificName', 'taxonRank'])
 
-#%%
+#save to file, excel easiest to read
+ancestry.to_excel('is_this_it.xlsx')
 
-# Create a new DataFrame to store matched rows
-matched_df = pd.DataFrame()
-
-# Iterate through taxon_vault
-for index, row in taxon_vault.iterrows():
-    if row['genus'] in compare_list:
-        matched_row=row[['genus', 'family', 'order', 'class', 'kingdom']]
-        matched_df = matched_df.append(matched_row, ignore_index=True)
-        #matched_df=pd.concat([matched_df, matched_row], ignore_index=True)
-
-
-matched_df.dropna(axis=0, how='any')
-matched_df.drop_duplicates(subset='genus')
-print(matched_df)
-
-
-matched_df.to_excel('output_taxon_ancestry.xlsx')
+#stop the timer and calculate time elapsed
 end=time.time()
-print('Time elapsed (minutes):', round((end-start)/60, 2))
-#%%
-'''
-for index, row in taxon_vault.iterrows():
-'''  
-'''
-search=df['genus']
-filtered_taxon_vault=taxon_vault[taxon_vault['genus']==search]
-
-print(filtered_taxon_vault['genus'])
-'''
-#%%
+print('Time elapsed (minutes):', round((end-start)/60, 2), '\n', 'Time elapsed (seconds):', round(end-start, 2))
 
 
-
-
-
-#%%
-
-#you can do the same with itterative approach, though it is not advisable when doing it with pandas
-'''
-i=int()
-work_df=pd.DataFrame()
-genus_vault=taxon_vault['genus']
-
-while i in range (0, num_rows):
-    work_df=df.loc[i, 'scientificNameAuth']
-    work_df_str=str(work_df)
-    genus=work_df_str.split()[0]
-    
-    if taxon_vault['genus'].str.contains(genus, case=False):
-        
-i=i+1
-
-'''
