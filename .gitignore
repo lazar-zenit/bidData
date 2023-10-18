@@ -177,3 +177,5 @@ ListCompare/MYC_VLT2023.xlsx
 TaxonAncestryFinder/is_this_it.xlsx
 ListCompare/2023-2008_diference.xlsx
 TaxonAncestryFinder/is_this_it.xlsx
+*.pdf
+Scrappers/output.csv
