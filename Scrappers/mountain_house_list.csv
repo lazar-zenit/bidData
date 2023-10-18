@@ -1,0 +1,49 @@
+,Planina ili mesto,Naziv doma ili smeštaja,mnv,Latitude,Longitude,Latitude decimal,Longitude decimal,Udruženje
+0,Avala,Planinarski dom “Čarapićev Brest”,310.0,"44°41’44,43″N","20°31’16,54″E",44.695675,20.521261,PSD “Avala” Beograd
+1,Besna Kobila,Planinarski dom “Dragan Spasić”,1480.0,"42°32’26,43″N","22°11’38,02″E",42.540675,22.193894,TO Vranje
+2,Bobija (Tornička),Planinarska kuća u selu Tornik,355.0,"44°12’45,22″N","19°29’58,97″E",44.212561,19.499714,
+3,Boranja,Planinarska kuća “Šarena Bukva”,789.0,"44°22’58,76″N","19°16’09,48″E",44.382989,19.2693,PD “Gučevo” Loznica
+4,Bukovska planina,Planinarsko sklonište “Kik”,800.0,"44° 6’27,38″N","19°52’05,66″E",44.107606,19.868239,PD “Vis” Lazarevac
+5,Bukulja,Planinarsko sklonište “Bukulja”,690.0,"44°17’58,81″N","20°31’51,15″E",44.299669,20.530875,PD “Bukulja” Aranđelovac
+6,Cer,Planinarski dom “Lipova voda”,620.0,"44°36’02,79″N","19°29’59,81″E",44.600775,19.499947,PSD “Cer” Šabac
+7,Crni vrh (Jagodina),Planinarska kuća “Crni vrh”,650.0,"44°00’43,80″N","21°06’26,99″E",44.012167,21.107497,PSD “Juhor” Jagodina
+8,Fruška gora,Planinarska kuća “Jugodent – Orlovo gnezdo”,272.0,"45°10’56,64″N","19°50’01,84″E",45.1824,19.833844,"PD “Jugodent”, Novi Sad"
+9,Fruška gora,Planinarski dom “Vojvodina”,485.0,"45°09’01,85″N","19°50’13,30″E",45.150514,19.837028,PSD “Laza Marković” Irig
+10,Fruška gora,Planinarska kuća “Kozarica”,140.0,"45°09’59,02″N","20°01’16,18″E",45.166394,20.021161,PD “Železnićar” Inđija
+11,Fruška gora,Planinarska kuća “Železničar”,302.0,"45°11’02,83″N","19°49’36,88″E",45.184119,19.826911,"PD “Železnićar”, Novi Sad"
+12,Fruška gora,Planinarska kuća “Zmajevac”,457.0,"45°09’32,58″N","19°46’50,47″E",45.15905,19.780686,"PD “Zmajevac”, Vrdnik"
+13,Fruška gora,Planinarski dom “Stražilovo”,284.0,"45°10’21,32″N","19°54’45,94″E",45.172589,19.912761,"PD “Sražilovo”, Sremski Karlovci"
+14,Fruška gora,Planinarski dom “Zanatlija”,328.0,"45°11’09,00″N","19°51’01,14″E",45.185833,19.850317,"PD “Zanatlija”, Novi Sad"
+15,Fruška gora,Planinarsko sklonište “Dr.Radivoj Simonović”,311.0,"45°11’01,93″N","19°49’23,83″E",45.183869,19.823286,"PD “Penzioner”, Novi Sad"
+16,"Gledićke planine, Adžine livade",Planinarska kuća “Dr Sonja Perišić”,575.0,"43°53’57,10″N","20°51’55,66″E",43.899194,20.865461,"PD “Žeželj”, Kragujevac"
+17,Goč,Planinarska kuća “Zorica Gizdović”,700.0,"43°33’56,78″N","20°40’49,54″E",43.565772,20.680428,PSD “Gvozrac-Junior” Kraljevo
+18,Goč,Planinarski dom “Dobra voda”,920.0,"43°33’43,74″N","20°45’35,24″E",43.56215,20.759789,SD “Goč” Kraljevo
+19,"Greben planina, selo Poganovo",Planinarska kuća “Greben”,560.0,"42°58’13,02″N","22°39’55,05″E",42.970283,22.665292,Pd “Caribrod” Dimitrovgrad
+20,Jablanik (Debelo brdo),Planinarski dom “Debelo brdo”,1040.0,"44° 9’29,30″N","19°41’10,55″E",44.158139,19.686264,PD “Magleš” Valjevo
+21,Jadovnik,Planinarski dom “Sopotnica”,995.0,"43°18’22,80″N","19°44’11,34″E",43.306333,19.736483,PD “Kamena gora” Prijepolje
+22,Jastrebac,Planinarski dom “Žarko Žarić”,581.0,"43°25’38,55″N","21°22’28,61″E",43.427375,21.374614,PD “Jastrebac” Kruševac
+23,Kopaonik,Planinarska kuća “Dr. Petar Kostić”,1734.0,"43°17’24,19″N","20°48’56,00″E",43.2900374,20.8155667,PSD “Avala” Beograd
+24,Kopaonik,Planinarski dom “Kopaonik”,1720.0,"43°17’23,61″N","20°48’56,47″E",43.289892,20.815686,PSK “Kopaonik” Beograd
+25,Kučajske planine (Grza),Planinarski dom “Đorde Živković”,480.0,"43°53’46,63″N","21°38’45,15″E",43.896286,21.645875,PD “Javorak” Paraćin
+26,Kukavica,Planinarski dom “Preka voda”,1270.0,"42°47’06,15″N","21°57’05,40″E",42.785042,21.9515,PD “Kukavica” Leskovac
+27,Kupusina (Sombor),Dom planinara “Dr Radivoj Simonović”,85.0,"45°44’38,21″N","18°58’53,66″E",45.743947,18.981572,PD “Radivoj Simonović” Sombor
+28,Maljen (Divčibare),Planinarski dom “Divčibare PTT”,903.0,"44° 6’23,08″N","19°59’05,17″E",44.106411,19.984769,
+29,Maljen (Divčibare),Planinarski dom “Na poljani”,1000.0,"44° 7’39,26″N","20° 0’55,10″E",44.127572,20.015306,PD “Magleš” Valjevo
+30,Medvednik,Lovački dom “Krušik”,826.0,"44° 12′,20,91″N","19° 39’57,95″E",44.2058083,19.6660972,?
+31,Ovčar banja,Planinarska kuća u Ovčarskoj klisuri,306.0,"43°54’43,28″N","20°12’26,18″E",43.912022,20.207272,PD “Kablar” Čačak
+32,Povlen,Planinarska kuća “Kućerak”,1145.0,"44° 8’29,80″N","19°42’45,25″E",44.141611,19.712569,Planinarski klub “Povlen” Valjevo
+33,Rajac,Planinarski dom “Čika Duško Jovanović”,640.0,"44°08’33,50″N","20°14’42,15″E",44.142803,20.2449682,PD “Pobeda” Beograd
+34,Rudnik,planinarska kuća “Ratko Kuruzović”,678.0,"44°08’13,64″N","20°30’05,90″E",44.137122,20.501639,PTT Beograd
+35,Stara planina,Planinarski dom “Dojkinci”,893.0,"43°13’53,94″N","22°46’52,57″E",43.23165,22.781269,PD “Vidlic” Pirot
+36,Stol (borski),Planinarski dom “Stol”,920.0,"44°10’22,32″N","22° 7’25,29″E",44.172867,22.123692,PD “Crni Vrh” Bor
+37,Stolovi kod Kraljeva,Planinarska kuća “Gradi”,542.0,"43°38’28,48″N","20°39’09,28″E",43.641244,20.652578,PSD “Gvozrac-Junior”
+38,Suva planina,Planinarska kuća “Čelin kamen” ‘- Donja Studena,,"43°15’36,90″N","22° 5’16,70″E",43.26025,22.087972,PD “Čelin kamen” Donja Studena
+39,Suvobor,Planinarska kuća “Dobra Voda”,758.0,"44°08’07,38″N","20°11’30,36″E",44.135383,20.191767,PD Pobeda Beograd
+40,Tara,Planinarska kuća “Javor”,1055.0,"43°53’32,41″N","19°33’38,63″E",43.892336,19.560731,Planinarski savez Beograda
+41,Tara,Planinarska kuća “Predov krst”,1080.0,"43°56’25,15″N","19°18’35,11″E",43.940319,19.309753,NP Tara
+42,Vršačke planine,Planinarska kuća “Panonija”,,"45° 7’19,24″N","21°21’33,55″E",45.122011,21.359319,PD “Železničar” Vršac
+43,Vršačke planine,Planinarski dom “Široko bilo”,246.0,"45° 7’35,26″N","21°21’36,08″E",45.126461,21.360022,PSD “Vršačka kula” Vršac
+44,Zlot,Planinarska kuća Beljevina,335.0,44° 03’204″N,"21°57’34,607″E",44.0296286,21.9667789,PD “Dubašnica”
+45,Stara planina,Planinarski dom “Babin zub”,1580.0,43°38’19.39″N,116°14’28.86″W,43.3745015,22.6160828,TO Knjaževac
+46,Zlatibor,Planinarski dom “Tornik”,1020.0,43°38’19.39″N,116°14’28.86″W,43.697731,19.665025,Udruženje građana “Klub-Salamandra”
+47,Suva planina,Planinarski dom “Bojanine vode” (prema informacijama koje imamo dom je u potpunosti izgoreo),860.0,43°38’19.39″N,116°14’28.86″W,43.2204128,22.1145273,Planinarski savez grada Niša
