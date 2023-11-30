@@ -1,0 +1,877 @@
+FAUNA – ЖИВОТIЊЕ,,,,
+CHORDATA – ХОРДАТА,,,,
+MAMMALIA – СИСАРИ,,,,
+РЕД,ПОРОДИЦА,"ВРСТАНаучни назив","ВРСТАСрпски назив",НАПОМЕНА
+"ARTIODACTYLA(ПАПКАРИ)","Bovidae(шупљорози)",Rupicapra rupicapra,Дивокоза,"Л; 1- III, Рез  6; 4-II/IV"
+"","Cervidae(јелени)",Capreolus capreolus,Срна,Л; 1- III
+"",Cervus elaphus,"Европски јелен, јелен обични",Л; 1- III,
+"","Suidae(свиње)",Sus scrofa,Дивља свиња,Л
+"CARNIVORA(ЗВЕРИ)","Canidae(пси)",Canis lupus,Вук,"Л; *; 1-II (резерва), Рез  6;4-II/IV"
+Canis aureus,Шакал,Л; 4-V,,
+Vulpes vulpes,Лисица,Л,,
+"Felidae(мачке)",Felis silvestris,Дивља мачка,"Л; *, 1-II (резерва); 4-IV",
+"Mustelidae(куне)",Martes foina,Куна белица,Л; 1-III,
+Martes martes,Куна златица,Л; 1- III; 4-V,,
+Meles meles,Јазавац,Л; 1- III,,
+"ERINACEOMORPHA(ЈЕЖЕВИ)","Erinaceidae(јежеви)",Erinaceus roumanicus,Јеж,
+"LAGOMORPHA(ЗЕЧЕВИ)","Leporidae(зечеви)",Lepus europaeus,Зец,Л; 1-III
+"RODENTIA(ГЛОДАРИ)","Cricetidae(хрчкови)",Arvicola amphibius,Водена волухарица,
+"",Microtus agrestis,Мочварна ливадска волухарица,,
+"",Microtus felteni,Македонска волухарица,,
+"",Microtus guentheri,Средоземна волухарица,,
+"",Microtus levis,Епирска волухарица,,
+"","Gliridae(пухови)",Glis glis,Сиви пух,Л; 1-III
+"","Muridae(мишеви)",Apodemus epimelas,Крашки миш,
+"",Apodemus uralensis,Пољски миш,**,
+"","Sciuridae(веверице)",Sciurus vulgaris,Веверица,Л; 1-III
+"SORICOMORPHA(РОВЧИЦЕ)","Soricidae(ровчице)",Crocidura leucodon,Пољска ровчица,1- III
+"",Crocidura suaveolens,Баштенска ровчица,1- III,
+"",Neomys anomalus,Мочварна ровчица,1- III,
+"",Sorex araneus,Шумска ровчица,1- III,
+"",Sorex minutus,Мала ровчица,1- III,
+"","Talpidae(кртице)",Talpa europaea,Обична кртица,
+AVES – ПТИЦЕ,,,,
+РЕД,ПОРОДИЦА,"ВРСТАНаучни назив","ВРСТАСрпски назив",НАПОМЕНА
+"ANSERIFORMES(ГУШЧАРИЦЕ)","Anatidae(патке и гуске)",Anas crecca,"Крџа, кржуља","Л; 1-III; 2-II; 3-III; 5-II/А, III/Б"
+"",Anas platyrhynchos,Глувара,"Л; 1-III; 2-II; 5-II/А, III/А",
+"",Anser albifrons,Лисаста гуска,"Л; 1-III; 2-II; 5-II/Б, III/Б",
+"",Anser caerulescens,Снежна гуска,1-III; 2-II,
+"",Anser fabalis,Гуска глоговњача,Л; 1-III; 2-II; 5-II/А,
+"",Aythya ferina,Риђоглава патка,Л; 1-III; 2-II; 5-II/А,
+"",Branta canadensis,Канадска гуска,1-III; 2-II; 5-II/А,
+"",Cygnus olor,Лабуд грбац,"1-III,; 2-II; 5-II/Б",
+"",Mareca penelope,Звиждара,"Л; 1-III; 2-II; 3-III; 5-II/А, III/Б",
+"CHARADRIIFORMES(ШЉУКАРИЦЕ)","Laridae(галебови)",Larus argentatus,Сребрнасти галеб,5-II/Б
+"",Larus cachinnans,Сињи галеб,1-III; 5-II/Б,
+"",Larus canus,Сиви галеб,1-III; 5-II/Б,
+"",Larus ridibundus,Обични галеб,1-III; 5-II/Б,
+"","Scolopacidae(шљуке)",Scolopax rusticola,Шумска шљука,"***; Л;1-III; 2-II; 5-II/А, III/Б"
+"CICONIIFORMES(ЧАПЉЕ, РОДЕ И ИБИСИ)","Ardeidae(чапље)",Ardea cinerea,Сива чапља,Л; 1-III
+"COLUMBIFORMES(ГОЛУБОВИ)","Columbidae(голубови)",Columba palumbus,Голуб гривнаш,"Л; 5-II/А, III/А"
+"",Streptopelia decaocto,Гугутка,Л; 1-III; 5-II/Б,
+"FALCONIFORMES(ГРАБЉИВИЦЕ)","Accipitridae(орлови и јастребови)",Accipiter gentilis,Јастреб,Л; 1-II-резерва; 2-II; 3-II
+"GALLIFORMES(КОКОШКЕ)","Phasianidae(коке)",,,
+"",Phasianus colchicus,Фазан,"Л, 1-III; 5-II/А, III/А",
+"GRUIFORMES(ЖДРАЛОВИ)","Rallidae(барске коке)",Fulica atra,Лиска,"Л; 1-III; 5-II/А, III/Б"
+"",Gallinula chloropus,Барска кокица,Л; 1-III; 5-II/Б,
+"PASSERIFORMES(ПЕВАЧИЦЕ)Б","Corvidae(вране)",Corvus corax,Гавран,1-III
+"",Corvus cornix,Сива врана,Л; 1-III; 5-II/,
+"",Corvus frugilegus,Гачац,Л; 5-II/Б,
+"",Corvus monedula,Чавка,5-II/Б,
+"",Garrulus glandarius,Сојка,Л; 5-II/Б,
+"",Pica pica,Сврака,5-II/Б,
+"","Passeridae(врапци)",Passer domesticus,Врабац покућар,
+"",Passer montanus,Пољски врабац,1-III,
+"","Sturnidae(чворци)",Sturnus vulgaris,Чворак,5-II/Б
+"PELECANIFORMES(НЕСИТИ)","Phalacrocoracidae(вранци)",Phalacrocorax carbo,Велики вранац,Л; 1-III
+РЕД,ПОРОДИЦА,"ВРСТАНаучни називTestudo hermanni","ВРСТАСрпски називШумска корњача","НАПОМЕНА****; 1-II; 3-II, 4-IV"
+"TESTUDINES(КОРЊАЧЕ)","Testudinidae(копнене корњаче)",,,
+"SQUAMATA(ЉУСКАШИ)","Viperidae(љутице)",Vipera ammodytes,Поскок,"****; 1-II (резерва), 4-IV"
+AMPHIBIA – ВОДОЗЕМЦИ,,,,
+РЕД,ПОРОДИЦА,"ВРСТАНаучни назив","ВРСТАСрпски називЗелена жаба","НАПОМЕНА****"
+"ANURA(БЕЗРЕПИ ВОДОЗЕМЦИ)","Ranidae(праве жабе)",Pelophylax kl. esculenta,,
+"",Pelophylax lessonae,Мала зелена жаба,****; 4-IV,
+"",Pelophylax ridibundus,Велика зелена жаба,****,
+PISCES – РИБЕ,,,,
+OSTEICHTHYES – КОШЉОРИБЕ,,,,
+ACTINOPTERYGII – ЗРАКОПЕРКЕ,,,,
+РЕД,ПОРОДИЦА,"ВРСТАНаучни назив","ВРСТАСрпски назив",НАПОМЕНА
+ACIPENSERIFORMES,"Acipenseridae(кечиге)",Acipenser ruthenus,Кечига,Р; 1-III; 2-II; 3-II; 4-V
+CYPRINIFORMES,"Cyprinidae(шарани)",Abramis brama,Деверика,Р
+"",Alburnoides bipunctatus,Плиска,1-III,
+"",Aspius aspius,"Буцов, болен","Р; 1-III, Рез 6; 4-II/V",
+"",Ballerus ballerus,"Кесега, шпицер",1-III,
+"",Ballerus sapa,Црноока деверика,1-III,
+"",Barbus balcanicus,Поточна мрена,Р; 4-V,
+"",Barbus meridionalis,Поточна мрена,"Р; 1-III, Рез  6; 4- II/V",
+"",Barbus peloponnesius,Поточна мрена,Р; 1-III; 4-V,
+"",Barbus barbus,Мрена,Р; 4-V,
+"",Chondrostoma nasus,"Скобаљ, подуст",Р; 1-III,
+"",Cyprinus carpio,Шаран,Р,
+"",Gobio obtusirostris,Кркуша,Р,
+"",Leuciscus idus,Јаз,Р,
+"",Rutilus pigus,Плотица,"Р; 1-III, Рез  6; 4-II/V",
+"",Squalius cephalus,Клен,Р,
+"",Vimba vimba,Носара,Р,
+ESOCIFORMES,"Esocidae(штуке)",Esox lucius,Штука,Р
+GADIFORMES,"Gadidae(бакаларке)",Lota lota,Манић,Р
+PERCIFORMES,"Blenniidae(слингуре)",Salaria fluviatilis,Слатководна слингура,1-III
+"","Percidae(гргечи)",Gymnocephalus schraetser,Шрац,"1-III, Рез  6; 4-II/V"
+"",Perca fluviatilis,Гргеч,Р,
+"",Sander lucioperca,Смуђ,Р,
+"",Sander volgensis,Смуђ камењар,Р; 1-III,
+SALMONIFORMES,"Salmonidae(пастрмке)",Hucho hucho,Младица,"Р; 1-III, Рез  6; 4-II/V"
+"",Salmo dentex,,Р,
+"",Salmo trutta,Поточна пастрмка,Р,
+"",Thymallus thymallus,Липљен,Р; 1-III; 4-V,
+SILURIFORMES,"Siluridae(сомови)",Silurus glanis,Сом,Р; 1-III
+ARACHNIDA – ПАУКОЛИКЕ ЖИВОТИЊЕ,,,,
+РЕД,ПОРОДИЦА,"ВРСТАНаучни назив","ВРСТАСрпски назив",НАПОМЕНА
+"OPILIONES(КОСЦИ)",Ischyropsalididae,Ischyropsalis hellwigi,,
+Nemastomatidae,Mitostoma olgae,,,
+Phalangiidae,Metaplatybunus strigosus,,,
+Sironidae,Siro serbicus,,,
+INSECTA – ИНСЕКТИ,,,,
+Cetoniidae,Potosia hungarica,,,
+Aegomorphus krüperi,,,,
+Agapanthia kirbyi,,,,
+Agapanthia osmanlis,,,,
+Agapanthia schurmanni,,,,
+Anarea similis,,,,
+Brachyta balcanica,,,,
+"",Cardoria scutellata,,
+"",Cerambyx carinatus,,
+"",Chlorophorus aegyptiacus,,
+"",Chlorophorus hungaricus,,
+"",Cortodera discolor,,
+"",Cortodera holosericea,,
+"",Cortodera flavimana,,
+"",Cortodera villosa,,
+"",Deroplia genei,,
+"",Evodinus balcanicus,,
+"",Leiopus punctulatus,,
+"",Monochamus saltuarius,,
+"",Neodorcadion pelleti,,
+"",Oberea pandemontana,,
+"",Paracorymbia pallens,,
+"",Pedestredorcadion murrayi,,
+"",Pedestredorcadion veluchianum zajecerense,,
+"",Prionus (Mesoprionus) besikanus,,
+"",Saphanus piceus ganglbaueri,,
+"",Stenopterus similatus,,
+"",Vadonia dojranensis,,
+"",Vadonia imitatrix,,
+"",Vadonia moesiaca,,
+"",Xylosteus spinolae rufiventris,,
+"",Xylotrechus antilope,,
+"Curculionidae(сурлаши)",Cionus hypsibatus,,
+"","Otiorhynchus (Pirostovedus) bosnicusbosnicus",,
+"",Otiorhynchus (Podoropelmus) juglandis,,
+"",Parascythopus pinicola,,
+"",Sciaphobus (Sciaphobus) caesius,,
+"",Trachyphloeus (Trachyphloeus) bosnicus,,
+"",Tropiphorus serbicus,,
+Scarabaeidae,Scarabaeus (Scarabaeus) typhon,,
+"",Scarabaeus (Scarabaeus) pius,,
+Psychodidae,Pericoma (Pericoma) affinis,,
+Blera fallax,,,
+Cheilosia brunnipennis,,,
+Cheilosia cumanica,,,
+Cheilosia fraterna,,,
+Cheilosia grisella,,,
+Cheilosia hypena,,,
+Cheilosia kerteszi,,,
+Cheilosia longula,,,
+Cheilosia morio,,,
+Cheilosia personata,,,
+Cheilosia pubera,,,
+Cheilosia rufimana,,,
+Cheilosia vujici,,,
+Criorhina ranunculi,,,
+Dasysyrphus lenensis,,,
+Dasysyrphus pauxillus,,,
+Eristalis picea,,,
+Eumerus clavatus,,,
+Eumerus richteri,,,
+Hammerschmidtia ferruginea,,,
+Lejota ruficornis,,,
+Mallota cimbiciformis,,,
+Mallota fuciformis,,,
+Meligramma cingulata,,,
+Merodon albifrons,,,
+Merodon chalybeatus,,,
+Merodon crymensis,,,
+Merodon loewi,,,
+Milesia semiluctifera,,,
+"",,Myolepta potens,,
+"",,Paragus absidatus,,
+"",,Parasyrphus nigritarsis,,
+"",,Pelecocera tricincta,,
+"",,Pipizella bispina,,
+"",,Pipizella pennina,,
+"",,Pocota personata,,
+"",,Psilota innupta,,
+"",,Spilomyia manicata,,
+"",,Temnostoma meridionale,,
+"",,Temnostoma vespiforme,,
+"",,Trichopsomyia flavitarsis,,
+"",,Tropidia scita,,
+"",,Xylota abiens,,
+"",,Xylota florum,,
+"EPHEMEROPTERA(ЈЕДНОДНЕВКЕ)",Baetidae,Baetis vardarensis,,
+"HEMIPTERA(СТЕНИЦЕ)",Miridae,Adelphophylus balcanicus,,
+"",,Adelphocoris insignis,,
+"",,Cremnocephalus alpestris,,
+"HYMENOPTERA(ОПНОКРИЛЦИ)",Apidae,Bombus confusus,,
+"",Chalcididae,Aphasganophora bidens,,
+"",,Chalcis myrifex,,
+"",,Chalcis sispes,,
+"",Eupelmidae,Metapelma nobilis,,
+"","Formicidae(мрави)",Formica (Formica) lugubris,,
+"",,Formica (Formica) polyctena,,
+"",,Formica (Formica) pratensis,,
+"",,Liometopum microcephalum,,
+"NEUROPTERA(МРЕЖОКРИЛЦИ)","Myrmeleontidae(мрављи лавови)",Distoleon tetragrammicus,,
+"",Mantispidae,Mantispa styriaca,,
+"ODONATA(ВИЛИНИ КОЊИЦИ)",Aeshnidae,Ophiogomphus cecilia,,"1-II, Рез  6 нова; 4-II/IV"
+Cordulegasteridae,Cordulegaster heros,,4-II/IV,
+Corduliidae,Epitheca bimaculata,,,
+Gomphidae,Gomphus flavipes,,,
+Libellulidae,Leucorrhinia caudalis,,1-II; 4-II/IV,
+"",Leucorrhinia pectoralis,,"1-II, Рез  6 нова; 4-II/IV",
+"",Leucorrhinia dubia,,,
+"Acrididae(скакавци)",Locusta migratoria,,,
+"",Miramella albanica,,,
+"",Odontopodisma albanica,,,
+"",Oropodisma macedonica,,,
+"",Paracinema tricolor bisignata,,,
+"",Podismopsis relicta,,,
+"",Stenobothrus graecus,,,
+"",Stenobothrus posthumus,,,
+"Bradyporidae(зрикавци)",Bradyporus dasypus,,,
+"Gryllidae(попци)",Modicogryllus mladeni,,,
+"",Modicogryllus truncatus,,,
+"Phaneropteridae(зрикавци)",Ancistrura nigrovitata,,,
+"",Isophya obtusa,,,
+"",Poecilimon affinis serbicus,,,
+"",Poecilimon ampliatus,,,
+"",Poecilimon ebneri,,,
+"",Poecilimon poecilus,,,
+"Rhaphidophoridae(пећински зрикавци)",Troglophilus lazaropolensis,,,
+Metrioptera (Metrioptera) arnoldi,,,,
+Metriopterta (Metrioptera) domogledi,,,,
+Metrioptera (Metrioptera) oblongicollis,,,,
+Pholidoptera aptera karnyi,,,,
+Platycleis (Modestana) ebneri,,,,
+Psorodonotus fieberi fieberi,,,,
+"",,Psorodonotus fieberi illyricus,,
+"",,Psorodonotus fieberi macedonicus,,
+"",,Saga campbelli campbelli,Грабљива кобилица,
+"",,Zeuneriana amplipennis,,
+PLECOPTERA,Nemouridae,Amphinemura sulcicollis,,
+Perlodidae,Perlodes microcephalus,,,
+Taeniopterygidae,Brachyptera seticornis,,,
+TRICHOPTERA,Goeridae,Silo nigricornis,,
+Hydropsychidae,Hydropsyche fulvipes,,,
+Limnephilidae,Micropterna testacea,,,
+Potamophylax cingulatus,,,,
+Philopotamidae,Wormaldia subnigra,,,
+GASTROPODA – ПУЖЕВИ
+PULMONATA,Helicidae,Helix aspersa,Баштенски пуж,****
+"",,Helix lucorum,"Шумски, сиви пуж",****
+"",,Helix pomatia,Виноградарски пуж,****
+ANNELIDAE – ПРСТЕНАСТЕ ГЛИСТЕ,,,,
+HIRUDINEA – ПИЈАВИЦЕ,,,,
+РЕД,ПОРОДИЦА,"ВРСТАНаучни назив","ВРСТАСрпски назив",НАПОМЕНА
+ARHYNCHOBDELLIDA,Hirudinidae,Hirudo medicinalis,Медицинска пијавица,****; 1- III; 3- II; 4-V
+"",,Hirudo verbana,,3- II
+OLIGOCHAETA,,,,
+РЕД,ПОРОДИЦА,"ВРСТАНаучни назив","ВРСТАСрпски назив",НАПОМЕНА
+OPISTHOPORA,Lumbricidae,Dendrobaena rhodopensis,,
+FUNGI – ГЉИВЕ,,,,
+РЕД,ПОРОДИЦА,"ВРСТАНаучни назив","ВРСТАСрпски назив",НАПОМЕНА
+AGARICALES,Amanitaceae,Amanita caesarea (Scop ) Pers,"Цезарка, кнегиња, благва",
+"",Hygrophoraceae,Hygrophorus russula (Schaeff ) Kauffman,Црвена пужевица,
+"",Marasmiaceae,Marasmius oreades (Bolton) Fr,Вилин клинчић,****
+BOLETALES,Boletaceae,Boletus aereus Bull,Црни вргањ,****
+"",,Boletus edulis Bull,"Вргањ, прави вргањ, јесењи вр-гањ",****
+"",,Boletus pinophilus Pilát & Dermek,Боров вргањ,****
+"",,Boletus reticulatus Schaeff,Распуцани вргањ,****
+CANTHARELLALES,Cantharellaceae,Cantharellus amethysteus (Quél ) Sacc,Аметистна лисичица,
+"",,Cantharellus cibarius Fr,Лисичарка,****
+"",,Cantharellus cinereus (Pers ) Fr,Сива лисичица,
+"",,Cantharellus friesii Welw  & Curr,Ситна лисичица,
+"",,Craterellus cornucopioides (L ) Pers,Мрка труба,****
+"",Hydnaceae,Hydnum repandum L,Жута јежевица,
+PEZIZALES,Morchellaceae,Morchella elata Fr,Високи смрчак,
+"",,Morchella esculenta (L ) Pers,Округли смрчак,
+"",,Morchella vulgaris Pers,Купасти смрчак,
+"",Tuberaceae,Tuber aestivum Vittad,Летњи тартуф,****
+"",,Tuber macrosporum Vittad,Јесењи црни тартуф,****
+"",,Tuber magnatum Pico,Бели тартуф,****
+RUSSULALES,Russulaceae,Lactarius deliciosus (L ) Gray,Рујница,****
+"",,Lactarius deterrimus Gröger,Смрекина рујница,****
+"",,Lactarius salmonicolor R  Heim & Leclair,Јелина млечница,****
+"",,Lactarius sanguifluus (Paulet) Fr,Полукрвна млечница,****
+"",,Lactarius semisanguifluus R  Heim & Leclair,Винска млечница,****
+"",,Russula cyanoxantha (Schaeff ) Fr,"Зека, зелено-љубичаста голубица",
+"",,Russula virescens (Schaeff ) Fr,Голубача,
+LICHENES – ЛИШАЈЕВИ,,,,
+РЕД,ПОРОДИЦА,"ВРСТАНаучни назив","ВРСТАСрпски назив",НАПОМЕНА
+LECANORALES,Parmeliaceae,Cetraria islandica (L ) Ach,исландски лишај,****
+Evernia prunastri (L ) Ach,храстов лишај,****,,
+Pseudevernia furfuracea (L ) Zopf,лажни храстов лишај,,,
+Usnea spp,шумска брада,,,
+FLORA – БИЉКЕ,,,,
+BRYOPHYTA – МАХОВИНЕ,,,,
+РЕД,ПОРОДИЦА,"ВРСТАНаучни назив","ВРСТАСрпски назив",НАПОМЕНА
+HYPNALES,Amblystegiaceae,Amblystegium saxatile Schimp,,
+"",Hypnaceae,"Callicladiumhaldanianum(Grev )HACrum",,
+JUNGERMANNIALES,Calypogeiaceae,Calypogeia fissa (L ) Raddi,,
+"",,Calypogeia integristipula Steph,,
+"",,"Calypogeiamuelleriana(Schiffn )MüllFrib",,
+"",,"Calypogeiasuecica(Arnell&JPerss )Müll  Frib",,
+"",Frullaniaceae,"Frullaniafragilifolia(Taylor)Gottsche,Lindenb  & Nees",,
+"",Lepidoziaceae,Bazzania tricreanta (Wahlenb ) Lindb,,
+"",,Bazzania trilobata (L ) Gray,,
+POTTIALES,Pottiaceae,Phascum piptocarpum Durieu & Montagne,,
+PTERIDOPHYTA – ПАПРАТЊАЧЕ,,,,
+РЕД,ПОРОДИЦА,"ВРСТАНаучни назив","ВРСТАСрпски назив",НАПОМЕНА
+FILICALES,Adianthaceae,Cryptogramma crispa (L ) R  Br  ex Hooker,,
+"",Blechnaceae,Blechnum spicant (L ) Roth,Ребрача,
+"",Dryopteridaceae,Dryopteris carthusiana (Vill ) H  P  Fuchs,,
+"",,"Dryopteris pallida (Bory) C  Chr  ex Maire& Petitmengin subsp  pallida",,
+"",Woodsiaceae,"Athyrium filix­femina (L ) Roth subsp  filix­femina","Женска папрат, папратка, навала",****
+LYCOPODIALES,"Lycopodiaceae(пречице)","Huperzia selago (L ) Bernh  ex Schrank &C  F  P  Mart  subsp  selago","Ситнапречица,игличастапре-чица",4-V
+OPHIOGLOSSALES,Ophioglossaceae,Ophioglossum vulgatum L  subsp  vulgatum,,
+SELAGINELLALES,Selaginellaceae,"Selaginellaselaginoides(L )BeauvexSchrank & C  F  P  Mart",,
+SPERMATOPHYTA – СЕМЕЊАЧЕ,,,,
+РЕД,ПОРОДИЦА,"ВРСТАНаучни назив","ВРСТАСрпски назив",НАПОМЕНА
+ARISTOLOCHIALES,Aristolochiaceae,Asarum europaeum L,"Копитњак,коњскокопито,ко-питник",****
+"Achillea ageratifolia (Sm ) Benth  & Hookerfil  subsp  serbica (Nyman) Heimerl",,,,
+Achillea aspleniifolia Vent,,,,
+Achillea clypeolata Sibth  & Sm,"Жута хајдучица, жута месечина",,,
+Achillea fraasii Schultz-Bip,,,,
+Achillea grandifolia Friv,,,,
+Achillea holosericea Sibth  & Sm,,,,
+Achillea millefolium L  subsp  millefolium,"Хајдучица, столист, спориш",****,,
+Arctium lappa L  subsp  lappa,"Чичак, чичак зелени",****,,
+"Artemisia campestris L  subsp  lednicensis(Rchb  in Spreng ) Jáv",,,,
+"ArtemisiaumbelliformisLamsubsperiantha (Ten ) Vallès-Xirau & Oliva Brañas",,4-V,,
+Artemisia pontica L,,,,
+Artemisia santonicum L  subsp  santonicum,,,,
+Aster alpinus L  subsp  alpinus,,,,
+"Carduus candicans W  & K  subspcandicans",,,,
+Carduus carduelis (L ) Gren,,,,
+Carduus hamulosus Ehrh  subsp  hamulosus,,,,
+Carlina acaulis L  subsp  acaulis,"Вилино сито, краљевац, белотрн",****,,
+"Carlina acaulis L  subsp  caulescens (Lam )Schubl  & G  Martens",,,,
+Centaurea reichenbachii DC,,,,
+Centaurea chrysolepis Vis,,,,
+"Centaurea cuneifolia Sibth  & Sm  subsppallida (Friv ) Hayek",,,,
+Centaurea ipecensis Rech  fil,,,,
+Centaurea jacea L  subsp  banatica Hayek,,,,
+Centaurea kosaninii Hayek,,,,
+Centaurea macroptilon Borbás,,,,
+"Centaurea nigrescens Willd  subspnigrescens",,,,
+"Centaurea phrygia L  subsp  bosniaca(Murb ) Hayek",,
+Centaurea triniifolia Heuffel,,
+Cirsium oleraceum (L ) Scop,,
+Crepis alpestris (Jacq ) Tausch,,
+"Crepismollis(Jacq )Aschersonsubspmollis",,
+Cyanus tuberosus (Vis ) Soják,,
+"Cyanusvelenovskyi(Adamović)Wagenitz& Greuter",,
+Echinops bannaticus Schrader,,
+Echinops microcephalus Sibth  & Sm,,
+"Echinops ritro L  subsp  ruthenicus (Bieb )Nyman",,
+Erigeron uniflorus L  subsp  uniflorus,,
+Galatella albanica Degen,,
+Galatella cana (Waldst  & Kit ) Nees,,
+"Galatella linosyris (L ) Reichenb  fil  subsplinosyris",,
+"Galatellasedifolia(L )Greutersubspsedifolia",,
+Gnaphalium pichleri Murb,,
+Inula helenium L  subsp  helenium,"Оман, девесиље",****
+"Jacobaea abrotanifolia (L ) Moench subspcarpathica (Herbich) B  Nord  & Greuter",,
+"Jacobaea subalpina (W  D  J  Koch) Pelser& Veldkamp",,
+"Jurineamollis(L )Reichenbsubspsubhastata Pančić",,
+Lactuca pancicii (Vis ) N  Kilian & Greuter,,
+"Petasiteshybridus(L )PGaertner,BMeyer & Scherb  subsp  hybridus","Лопух, репух, репушина",****
+Reichardia dichotoma (DC ) Freyn,Крупнолисна рајхардија,
+Scorzonera doriae Degen & Bald,,
+Scorzonera parviflora Jacq,,
+Scorzoneroides cichoriacea (Ten ) Greuter,,
+"Scorzoneroidesmontana(Lam )Holubsubsp  breviscapa (DC ) Greuter",,
+Scorzoneroides rilaensis (Hayek) Holub,,
+Senecio doria L,,
+Solidago virgaurea L  subsp  virgaurea,"Златица, поганска трава",****
+Sonchus palustris L,,
+"Taraxacum bessarabicum (Hornem ) Hand -Mazz",,
+Taraxacum janchenii Kirschner & Štěpánek,,
+"Taraxacumserotinum(Waldst&Kit )Fisch",,
+"Tephroserisintegrifolia(L )Holubsubspaucheri (DC ) B  Nord",,
+"Tephroserisintegrifolia(L )Holubsubspaurantiaca (Willd ) B  Nord",,
+"Tephroserispapposa(Reichenb )Schursubsp  wagneri (Degen) B  Nord",,
+Tragopogon pterodes Pančić ex Petrović,,
+Tragopogon tommasinii Schultz-Bip,,
+"Tripoliumpannonicum(Jacq )Dobroczsubsp  pannonicum",,
+Asyneuma anthericoides (Janka) Bornm,,
+"CampanulaalpinaJacqsubsporbelica(Pančić) Urum",,
+Campanula crassipes Heuffel,,
+Campanula latifolia L,,
+Campanula lingulata Waldst  & Kit,,
+"Campanula patula L  subsp  epigaea (Janka)Hayek",,
+Campanula phrygia Jaub  & Spach,,
+"CampanulascheuchzeriVillsubspscheuchzeri",,
+"CampanulasibiricaLsubspdivergentiformis (Jáv ) Domin",,
+Campanula versicolor Andrews,,
+"",,Edraianthus graminifolius (L ) DC  subsp,,,
+"",,graminifolius,,,
+"",,Edraianthus jugoslavicus Lakušić,,,
+"",,Phyteuma confusum A  Kerner,,,
+"",,Phyteuma pseudorbiculare Pant,,,
+CELASTRALES,Staphyleaceae,Staphylea pinnata L,Клокочика,,
+CENTROSPERMAE,Caryophyllaceae,Atocion lerchenfeldianum (Baumg ) M,,,
+"",(каранфили),Popp,,,
+"",,Atocion rupestre (L ) B  Oxelman,,,
+"",,Dianthus gracilis Sibth  & Sm  subsp,,,
+"",,armerioides (Griseb ) Tutin,,,
+"",,Dianthus microlepis Boiss  subsp  microlepis,,,
+"",,Dianthus pelviformis Heuffel,,,
+"",,Dianthus pinifolius Sibth  & Sm  subsp,,,
+"",,pinifolius,,,
+"",,Dianthus superbus L  subsp  superbus,Ибришим каранфил,,*
+"",,Dianthus sylvestris Wulfen subsp  bertisceus,,,
+"",,Rech  fil,,,
+"",,Gypsophila paniculata L,"Шлајер, бела сапуњача, шу-",,
+"",,,шуљак,,
+"",,Gypsophila spergulifolia Griseb,,,
+"",,Heliosperma macranthum Pančić,,,
+"",,Herniaria glabra L  subsp  glabra,"Сипаница, језерозлатка, кила-",,****
+"",,,вица,,
+"",,Herniaria hirsuta L,Длакава сипаница,,****
+"",,Herniaria incana Lam  subsp  incana,Сива сипаница,,****
+"",,Moehringia bavarica (L ) Gren,,,
+"",,Moehringia pendula (Waldst  & Kit ) Fenzl,,,
+"",,Silene bupleuroides L,,,
+"",,Silene frivaldszkyana Hampe,,,
+"",,Silene multicaulis Guss  subsp  multicaulis,,,
+"",,Silene viridiflora L,,,
+"",,Silene viscosa (L ) Pers,Лепљиви пуцавац,,
+"",,Spergularia media (L ) C  Presl subsp,,,
+"",,media,,,
+"",,Spergularia salina J  Presl & C  Presl,,,
+"",Chenopodiaceae,Bassia laniflora (S  G  Gmelin) A  J  Scott,,,
+"",(лободе),,,,
+"",,Bassia prostrata (L ) A  J  Scott,,,
+"",,Beta trigyna Waldst  & Kit,,,
+"",,Ceratoides latens (J  F  Gmelin) Reveal and,,,
+"",,Holmgren,,,
+"",,Suaeda prostrata Pallas,,,
+CONIFERALES,Cupressaceae,Juniperus communis L  subsp  communis,"Клека, вења, клекиња",,****
+"",,Juniperus communis L  subsp  alpina (Suter),"Ниска клека, клечица, клек",,****
+"",,Čelak,,,
+"",,Juniperus excelsa M B,,,
+CYPERALES,Cyperaceae,Eleocharis acicularis (L ) Roemer &,,,
+"",(оштрице),Schultes,,,
+"",,Carex acuta L,,,Рез  6 нова
+"",,Carex arenaria L,,,
+"",,Carex brevicollis DC,,,
+"",,Carex davalliana Sm,,,
+"",,Carex depauperata Curtis ex With,,,
+"",,Carex serotina Mérat subsp. serotina,,,
+"",,Carex stenophylla Wahlenb,,,
+"",,Cyperus glomeratus L,,,
+"",Dipsacaceae,Knautia ambigua Boiss  & Orph,,,
+"",,Knautia longifolia (Waldst  & Kit ) Koch,,,
+"",,Knautia macedonica Griseb,,,
+"",,Knautia midzorensis Form,,,
+"",,Pterocephalus plumosus (L ) Coulter,,,
+"",,Scabiosa cinerea Lapeyr  ex Lam,,,
+"",,Scabiosa columbaria L  subsp  banatica,,,
+"",,(Waldst  & Kit ) Diklić,,,
+"",,Scabiosa crenata Cyr  subsp  crenata,,,
+"",,Scabiosa fumarioides Vis  & Pančić,,,
+"",,Scabiosa graminifolia L  subsp  graminifolia,,,
+"",,Scabiosa ochroleuca L  subsp  balcanica,,,
+"",,(Velen ) Stoj  & Stefanov,,,
+"",,Scabiosa rotata Bieb,,
+"",,Scabiosa silenifolia Waldst  & Kit,,
+"",,Succisa pratensis Moench,Пискавац,
+"",Valerianaceae,Valeriana bertiscea Pančić,,
+"",,Valeriana pancicii Halácsy & Bald,,
+"",,Valeriana sambucifolia Mikan ex Pohl,,
+"",,Valeriana tuberosa L,,
+ERICALES,Empetraceae,"EmpetrumhermaphroditumLangeexHagerup",,
+"",Ericaceae,Arctostaphylos uva­ ursi (L ) Sprengel,"Медвеђе грожђе, медвеђе уво",
+"",,Vaccinium myrtillus L,"Боровница, боровица, бросница",****
+"",,Vaccinium uliginosum,,
+"",,Vaccinium vitis­idaea,,
+FAGALES,Betulaceae,Betula pendula Roth,"Бреза, бриза, брез",****
+"",Corylaceae,Corylus colurna L,"Мечја леска, диволеска",
+"",Fagaceae,Castanea sativa Miller,,
+"",,"Quercus robur L  subsp  pedunculiflora (KKoch) Menitsky",Степски лужњак,
+GENTIANALES,Apocynaceae,Vinca herbacea Waldst  et Kit,,*
+Gentianaceae,"CentauriumerythraeaRafinsubsperythraea","Кичица, китица, трава од гроз-нице",****,
+"",Gentiana asclepiadea L  subsp  asclepiadea,"Свећица, сириштара,",****,
+"",Gentiana cruciata L  subsp  cruciata,"Прострел,крстасталинцура,прострео",****,
+"",Gentiana lutea agg L,"Балканскалинцура,жуталин-цура",4-V,
+"","GentianapneumonantheLsubsppneumonanthe",Мала свећица,,
+"",Gentiana punctata L,,,
+"",Gentianella albanica (Jáv ) J  Holub,,,
+"",Gentianella ciliata (L ) Borkh  subsp  ciliata,,,
+Rubiaceae,"Asperulapurpurea(L )Ehrendsubspapiculata (Sibth  & Sm ) Ehrend",,,
+"",Asperula scutellaris Vis,,,
+"",Crucianella graeca Boiss,,,
+"",Galium boreale L  subsp  boreale,,,
+"",Galium divaricatum Pourret ex Lam,,,
+"",Galium firmum Tausch,,,
+"",Galium flavescens Borbás,,,
+"",Galium laconicum Boiss  & Heldr,,,
+"",Galium mirum Rech  fil,,,
+"",Galium odoratum (L ) Scop,"Лазаркиња, броћаница,",****,
+"",Galium pseudaristatum Schur,,,
+"",Galium rubioides L  subsp  rubioides,,,
+"",Galium verticillatum Danth,,,
+"",Galium volhynicum Pobed,,,
+"Euphorbiaceae(млечике)",Euphorbia carniolica Jacq,,,
+"",Euphorbia lingulata Heuffel,,,
+"",Euphorbia pancicii G  Beck,,,
+"",Euphorbia serpentini Novak,,,
+"",Euphorbia subhastata Vis  & Pančić,,,
+Geraniaceae,"ErodiumhoefftianumC  AMeyersubsphoefftianum",,,
+"",Geranium caeruleatum Schur,,,
+"",Geranium macrorrhizum L,,,
+"",Geranium nodosum L,,,
+"","GeraniumrobertianumLsubsprobertianum","Живатрава,пастирскаиглица,иглица",****,
+"",Geranium subcaulescens L’Hér  ex DC,,,
+"",Geranium versicolor L,,,
+Linaceae,Linum corymbulosum Reichenb,,,
+Linum extraaxillare Kit,,,,
+Linum trigynum L,Француски лан,,,
+"LinumnervosumWaldst&Kitsubspnervosum",,,,
+"LinumtauricumWilldsubspserbicum(Podp ) Petrova",,,,
+GRAMINALES,Poaceae,Agropyron cristatum,(L ),Gaertner,subsp,,,,,
+"",(траве),pectinatum (Bieb ) Tzvelev,,,,,,,,
+"",,Beckmannia eruciformis,(L ),Host,subsp.,,,,,
+"",,eruciformis,,,,,,,,
+"",,Crypsis aculeata (L ) Aiton,,,,,,,,
+"",,Crypsis schoenoides (L ) Lam,,,,,,,,
+"",,Micropyrum tenellum (L ) Link,,,,,,,,
+"",,Pholiurus pannonicus (Host) Trin,,,,,,,,
+"",,Secale sylvestre Host,,,,,,,,
+"",,Sesleria serbica (Adamović) Ujhelyi,,,,,,,,
+"",,Sesleria tenerrima (Fritsch) Hayek,,,,,,,,
+"",,Stipa novakii Martinovský,,,,,,,,
+"",,Trisetum sibiricum Rupr  subsp  sibiricum,,,,,,,,
+GUTTIFERALES,Hypericaceae,Hypericum androsaemum L,,,,,Крвавац,,,
+"",(Guttiferae),Hypericum barbatum Jacq,,,,,"Трепљасти кантарион,",пљуска-,,****
+"",,,,,,,вица трепљаста,,,
+"",,Hypericum elegans Stephan ex Willd,,,,,,,,
+"",,Hypericum maculatum Crantz,,,,,Планински кантарион,,,****
+"",,Hypericum perforatum L,,,,,"Кантарион, богородичина трава,",,,****
+"",,,,,,,крвавац,,,
+"",,Hypericum rochelii Griseb  & Schenk,,,,,,,,
+"",,Hypericum rumelicum,,Boiss,subsp,,"Румелијски кантарион,",изда-,,****
+"",,rumelicum,,,,,шљивица,,,
+HELOBIAE,Hydrocharitaceae,Stratiotes aloides L,,,,,Тестерица,,,
+"",Potamogetonaceae,Potamogeton x zizii Koch ex Roth,,,,,,,,*
+"",,Potamogeton acutifolius Link,,,,,,,,*
+"",,Potamogeton nodosus Poiret,,,,,,,,*
+"",,Potamogeton obtusifolius Mert  & Koch,,,,,,,,*
+"",,Potamogeton pusillus L  subsp  pusillus,,,,,,,,*
+"",,Potamogeton trichoides Cham  & Schlecht,,,,,,,,*
+"",Zannichelliaceae,Zannichellia palustris L,,,,,,,,
+LAMIALES,Lamiaceae,Sideritis montana,,,,,,,,
+LILIIFLORAE,Amaryllidaceae,Galanthus elwesii Hooker fil  subsp  elwesii,,,,,,,,3-II
+"",,Galanthus nivalis L  subsp  nivalis,,,,,Висибаба,,,3-II; 4-V
+"",,Leucorum aestivum L  subsp  aestivum,,,,,,,,
+"",,Leucorum vernum L,,,,,,,,
+"",,Narcissus radiiflorus Salisb,,,,,"Нарцис, суноврат",,,"1-I, Рез  6"
+"",,Sternbergia colchiciflora Waldst  & Kit,,,,,Бабалушка,,,3-II
+"",Iridaceae,Crocus alexandri Ničić ex Velen,,,,,,,,
+"",(ириси),,,,,,,,,
+"",,Crocus kosaninii Pulević,,,,,,,,
+"",,Crocus scardicus Košanin,,,,,,,,
+"",,Crocus weldenii Hoppe & Fürnrohr,,,,,,,,
+"",,Iris pseudoacorus L,,,,,"Барска перуница, жута перуни-",,,****
+"",,,,,,,"ка, дивља перуника",,,
+"",,Iris pumila L  subsp  pumila,,,,,Патуљаста перуника,,,
+"",Liliaceaae,Allium angulosum L,,,,,,,,
+"",(љиљани),,,,,,,,,
+"",,Allium flavescens Besser,,,,,,,,
+"",,Allium atropurpureum Waldst  & Kit,,,,,Пурпурноцрни лук,,,
+"",,Allium melanantherum Pančić,,,,,,,,
+"",,Allium lusitanicum Lam,,,,,,,,
+"",,Allium ursinum L,subsp,ucrainicum,,,"Сремуш, медвеђи лук, цремош",,,****
+"",,Kleopow & Oxner,,,,,,,,
+"",,Allium victorialis L,,,,,,,,
+"",,Asphodeline liburnica (Scop ) Reichenb,,,,,,,,
+"",,Colchicum autumnale L,,,,,Јесењи мразовац,,,
+"",,Colchicum hungaricum Janka,,,,,,,,
+"",,Fritillaria montana Hoppe,,,,,"Дегенова кошутица, Дегенова",,,"1-I, Рез  6"
+"",,,,,,,коцкавица,,,
+"",,Fritillaria meleagris L  subsp  meleagris,,,,,Кошутица,,,
+"",,Gagea bohemica (Zauschner),,Schultes,&,,,,,
+"",,Schultes fil  subsp  bohemica,,,,,,,,
+"",,Gagea pusilla (F  W  Schmidt) Schultes &,,,,,,,,
+"",,Schultes fil  subsp. pusilla,,,,,,,,
+"",,Lilium carniolicum Bernh  ex Koch subsp,,,,,,,,
+"",,albanicum (Griseb ) Hayek,,,,,,,,
+"",,Lilium martagon L,,,,,Шумски љиљан,,,
+"",,Maianthemum bifolium (L ) F  W  Schmidt,,,,,,,,
+"",,Narthecium scardicum Košanin,,
+"",,Ornithogalum boucheanum Ascherson,,
+"",,Ornithogalum montanum Cyr,,
+"",,Ornithogalum sibthorpii W  Greuter,,
+"",,Ruscus aculeatus L,"Веприна, кострика, шимширика",****; 4-V
+"",,Ruscus hypoglossum L,"Језичастакострика,веприна,непричац",****
+"",,Veratrum nigrum L,"Црна чемерика, kинавка",****
+MALVALES,"Malvaceae(слезови)",Althaea officinalis L,"Бели слез, питоми слез, слезо-вина",****
+"",Tiliaceae,Tilia cordata Miller subsp  cordata,"Ситнолисна липа, зимска липа,липолист",****
+"",,Tilia rubra DC  subsp  rubra,Кавкаска липа,
+"",,Tilia tomentosa Moench,"Бела липа, сребрна липа, сребр-наста липа",****
+MICROSPERMAE,"Orchidaceae(орхидеје)","Anacamptispyramidalis(L )L C MRichard",,3-II; 4-II/IV
+"",,Cephalanthera damasonium (Miller) Druce,,3-II
+"",,Cephalanthera longifolia (L ) Fritsch,Заврата бела,3-II
+"",,Cephalanthera rubra (L ) L  C  M  Richard,Заврата црвена,3-II
+"",,Dactylorhiza latifolia (L ) Soó,,3-II
+"",,Dactylorhiza romana (Sebast  & Mauri) Soó,,3-II
+"",,Dactylorhiza x serbica (Fleischm ) Soó,,3-II
+"",,"Epipactishelleborine(L )Crantzsubsphelleborine",Калужђарка,3-II
+"",,"Gymnadeniaconopsea(L )RBrsubspconopsea",Врањак,3-II
+"",,"Gymnadeniaodoratissima(L )LCMRichard subsp  odoratissima",Миришљави врањак,3-II
+"",,Limodorum abortivum (L ) Schwarz,,3-II
+"",,Listera ovata (L ) R  Br,"Чопотац, дволист, милогледче",3-II
+"",,Neottia nidus­avis (L ) L  C  M  Richard,"Гнездовица, самоједа",3-II
+"",,Orchis morio L,Салеп,3-II
+"",,Orchis purpurea Hudson,Каћунак пурпурни,3-II
+"",,Orchis simia Lam,Каћунак мали,3-II
+"",,Orchis tridentata Scop,Каћунак мали,3-II
+"",,"Platanthera bifolia (L ) L  C  M  Richardsubsp  bifolia",Вимењак,3-II
+MYRTALES,Lythraceae,Lythrum tribracteatum Salzm  & Sprengel,,
+"",,Peplis portula L,,
+"",Onagraceae,Epilobium anagallidifolium Lam,,
+"",,Epilobium gemmascens C  A  Meyer,,
+"",,Epilobium hirsutum L,"Длакави ноћурак, руњави ноћу-рак",****
+"",,Epilobium montanum L,Свиловина,****
+"",,Epilobium parviflorum Schreber,"Врбовка, ноћура",****
+"",Trapaceae,Trapa natans L,Водени орашак,1-I
+PLANTAGINALES,Plantaginaceae,Plantago gentianoides Sibth  & Sm,,
+"",,Plantago reniformis G  Beck,,
+"",,Plantago tenuiflora Waldst  & Kit,,
+PLUMBAGINALES,Plumbaginaceae,"Limoniumgmelinii(Willd )OKuntzesubsp  gmelinii",,
+POLYGONALES,Polygonaceae,Rumex balcanicus Rech  fil,,
+"",,"RumexthyrsiflorusFingerhsubspthyrsiflorus",,
+"",,"BistortaofficinalisDelarbresubspofficinalis",Желудњак,****
+PRIMULALES,Primulaceae,Androsace maxima L  subsp  maxima,Мужица,
+"Cyclamen hederifolium subsp  hederifoliumAiton",Вилина косица,3-II,,
+"Cyclamenpurpurascenssubsppurpurascens Miller",Циклама,3-II,,
+Primula elatior (L ) Hill,"Јаглика, јаглац, јагорчевина",****,,
+Primula minima L,,,,
+Primula veris L,"Јагорчика, крстаста, јаглика",****,,
+Primula acaulis (L ) Hill subsp  acaulis,"Јагорчевина, јагорчина, јаглич",****,,
+Soldanella chysosticta Kress,,,,
+"AconitumburnatiiGayersubsppentheri(Hayek) Jalas",,,,
+"AconitumlycoctonumLsubspvulparia(Reichenb ) Nyman","Вучји корен, отровни жутац, цр-вљивача",,,
+"",,"AconitumtoxicumReichenbsubspbosniacum (G  Beck) Niketić",,
+"",,Anemone narcissifolia L  subsp  narcissifolia,,
+"",,Aquilegia blecicii Podobnik,,
+"",,Helleborus serbicus Adamović,,
+"",,Hepatica nobilis Schreber,Крстати копривњак,****
+"",,"Pulsatillapratensis(L )Millersubsphungarica Soó",Ливадска саса,Рез  6 нова; 4-II/IV
+"",,Ranunculus concinnatus Schott,,
+"",,Ranunculus flammula L  subsp  flammula,,
+"",,Ranunculus fontanus C  Presl,,1-I
+"",,Ranunculus neapolitanus Ten,,
+"",,Ranunculus rumelicus Griseb,,
+"",,Ranunculus serbicus Vis,,
+"",,"Trollius europaeus L  subsp  transsilvanicus(Schur) Domin",,
+RHAMNALES,Rhamnaceae,Frangula dodonei Ard  subsp  dodonei,"Крушина, пасјаковина, кркавина",****
+"",,Frangula rupestris (Scop ) Schur,,
+"",,Rhamnus orbiculata Bornm,,
+RHOEDALES,"Brassicaceae (Cruciferae)(крсташице)","AlyssummarkgrafiiOESchulzexMarkgraf",,
+"",Alyssum wierzbickii Heuffel,,,
+"",Brassica elongata Ehrh  subsp  elongata,,,
+"",Cardamine pancicii Hayek,,,
+"",Cardamine parviflora L,,,
+"","DrabakorabensisKummerle&DegenexJáv",,,
+"","ErysimumcheiranthoidesLsubspcheiranthoides",,,
+"",Euclidium syriacum (L ) R Br,,,
+"",Hesperis dinarica G  Beck,,,
+"",Hesperis sylvestris Crantz,,,
+"",Kernera saxatilis (L ) Sweet subsp  saxatilis,,,
+"","Malcolmiaorsiniana(Ten )Tensubspserbica (Pančić) Greuter & Burdet",,,
+"",Thlaspi bellidifolium Griseb,,,
+Crassulaceae,Rhodiola rosea L  subsp  rosea,,,
+Sedum grisebachii Boiss  & Heldr,,,,
+"SedummagellenseTensubspolympicum(Boiss ) Greuter & Burdet",,,,
+Sedum caespitosum (Cav ) DC,,,,
+Sedum villosum L,,,,
+Sempervivum kosaninii Praeger,,,,
+Sempervivum zeleborii Schott,,,,
+Anthyllis vulneraria L,Рањеница,****,,
+"AnthyllisvulnerariaLsubspalpestris(Hegetschw ) Ascherson & Graebner",,,,
+Astragalus asper Jacq,,,,
+Astragalus austriacus (L ) Lam,,,,
+Astragalus contortuplicatus L,,,,
+Coronilla coronata L,,,,
+Cytisus jankae Velen,,,,
+"CytisushirsutusLsubsppolytrichus(Bieb ) Hayek",,,,
+Cytisus ratisbonensis Schaeffer,,,,
+Genista subcapitata Pančić,,,,
+Glycirrhiza glabra L,"Слатки корен, коњеда, слацић",,,
+Lathyrus binatus Pančić,,,,
+Lathyrus inconspicuus L,,,,
+Lathyrus pallescens (Bieb ) C  Koch,,,,
+Melilotus neapolitanus Ten,,,,
+"Onobrychisarenaria(Kit )DCsubsplasiostachya (Boiss ) Hayek",,,,
+Onobrychis oxyodonta Boiss,,,,
+Oxythropis pilosa (L ) DC,Маљави козинац,,,
+Securigera elegans (Pančić) Lassen,,,,
+Trifolium cherleri L,,,,
+Trifolium heldreichianum Hausskn,,,,
+"",,Trifolium michelianum Savi,,
+"",,Trifolium ornithopodioides L,,
+"",,"Trifolium phleoides Pourret ex Willd  subspphleoides",,
+"",,Trifolium physodes Steven ex Bieb,,
+"",,Trifolium tenuifolium Ten,,
+"",,Trifolium trichopterum Pančić,,
+"",,Vicia biennis L,,
+"",,Vicia sparsiflora L,,
+"",Grossulariaceae,Ribes alpinum L,,
+"",,"RibesmultiflorumKitexRoemer&Schultes subsp  multiflorum",,
+"",,Ribes uva­crispa L  subsp  uva­crispa,,
+"","Rosaceae(руже)",Alchemilla sp,"Вирак, вирић, веркута",****
+"",,Crataegus laevigata (Poiret) DC,"Црвени глог, глоговина, чобан-чица",****
+"",,Crataegus monogyna Jacq  subsp  monogyna,"Бели глог, глог, четица",****
+"",,Crataegus nigra Waldst  & Kit,,
+"",,"CrataeguspentagynaWaldst&KitexWilld  subsp  pentagyna",Петостубичасти глог,****
+"",,Comarum palustre L,Барски петолист,
+"",,Drymocallis rupestris (L ) Soják,,
+"",,Fragaria vesca L  subsp  vesca,"Шумска јагода, јагода, мамица",****
+"",,Geum reptans L,,
+"",,Potentilla apennina Ten  subsp  apennina,,
+"",,Potentilla caulescens L  subsp  caulescens,,
+"",,"PotentillachrysanthaTrevsubspamphibola (Schur) Soják",,
+"",,Potentilla erecta (L ) Räuschel,"Срчењак, срчењача",****
+"",,Potentilla montenegrina Pant,,
+"",,Potentilla speciosa Willd  Subsp  illyrica,,
+"",,Potentilla visianii Pančić,,
+"",,Prunus tenella Batsch,Степски бадем,
+"",,Rosa canina L,"Дивља ружа, шипак, шипурак",****
+"",,Sorbus chamaemespilus (L ) Crantz,,
+"",Saxifragaceae,Saxifraga aizoides L,,
+"",,Saxifraga bulbifera L,,
+"",,"Saxifraga carpetana Boiss  & Reuter subspgraeca (Boiss  & Heldr ) D  A  Webb",,
+"",,"Saxifragafederici­augustiBiasolsubspfederici­augusti",,
+"",,"Saxifragafederici­augustiBiasolsubspgrisebachii (Degen & Dörfler) D  A  Webb",,
+"",,Saxifraga glabella Bertol,,
+"",,"Saxifraga pedemontana All  subsp  cymosaEngler",,
+"",,"SaxifragastellarisLsubspengleriPFourn",,
+RUTALES,Rutaceae,Haplophyllum boissieranum Vis  & Pančić,,
+SALICALES,Salicaceae,Salix aurita L,,
+"",,Salix herbacea L.,,
+"",,Salix pentandra L,,
+"",,Salix rosmarinifolia L,Рузмаринолисна врба,
+SANTALALES,Santalaceae,"Comandraelegans(RochelexReichenb )Reichenb  fil",Командра,
+SPATHIFLORAE,Araceae,,,
+"",,Arum orientale Bieb  subsp  orientale,,
+"",,Arum petteri Schott,,
+THYMELAEALES,Thymeleaceae,Daphne blagayana Freyer,,
+Daphne cneorum L  subsp  cneorum,,,,
+"Thymelaea passerina (L ) Cosson & Germsubsp  passerina",,,,
+"CynoglossumgermanicumJacqsubspgermanicum",,,,
+Halacsya sendtneri (Boiss ) Dörfler,,,,
+Heliotropium supinum L,,,,
+"Onosma pseudarenaria Schur subsp  fallaxBorbás",,,,
+Onosma visianii G  C  Clementi,,,,
+"",Pulmonaria angustifolia L,,
+"",Pulmonaria officinalis L,"Плућњак, медуника",****
+"",Pulmonaria rubra Schott,,
+"",Symphytum officinale L  subsp  officinale,"Црни гавез, гавез, врани гавез",****
+"",Symphytum ottomanum Friv,,
+"Lamiaceae (Labiatae)(уснатице)",Acinos hungaricus (Simonkai) Šilić,,
+"",Ajuga laxmannii (L ) Bentham,Лаксманова ивица,
+"",Clinopodium pulegium (Rochel) Bräuchler,,
+"","HyssopusofficinalisLsubsparistatus(Godron) Briq",,
+"",Lamium album L  subsp  album,Бела мртва коприва,****
+"",Leonurus cardiaca L  subsp  cardiaca,"Срдачица, коприва од срца, ср-ченица",****
+"",Marrubium vulgare L,"Бели трљан, тотрљан",****
+"",Micromeria croatica (Pers ) Schott,,
+"",Origanum vulgare L,"Оригано, Вранилова трава, вра-ниловка",****
+"",Phlomis tuberosa L,Кртоласта гостанка,
+"",Salvia aethiopis L,,
+"",Salvia argentea L  subsp  argentea,,
+"",Salvia austriaca Jacq,Памук трава,
+"",Salvia virgata Jacq,,
+"",Satureja kitaibelii Wierzb,"Ртањски чај, Китаибелов чубар",****
+"",Satureja montana L  subsp  montana,"Вријесак, вресина, коњски вре-сак",****
+"","SaturejasubspicataBartlexVissubspsubspicata",,
+"",Scutellaria albida L  subsp  albida,,
+"","ScutellariaalbidaLsubspvelenovskyi(Rech  fil ) Greuter & Burdet",,
+"",Scutellaria alpina L  subsp  alpina,,
+"","Scutellaria orientalis L  subsp  pinnatifida JR  Edmondson",,
+"",Stachys anisochila Vis  & Pančić,,
+"",Stachys atherocalyx C  Koch,,
+"",Stachys plumosa Griseb,,
+"",Teucrium botrys L,,
+"",Teucrium chamaedrys L  subsp  chamaedrys,"Подубица, дубочац, зубатац",****
+"",Teucrium montanum L  subsp  montanum,"Трава ива, дубачац мали, дубчац",****
+"","TeucriumscordiumLsubspscordioides(Schreber) Maire & Petitmengin",,
+"",Thymus adamovicii Velen,,
+"","Thymusbulgaricus(Domin&Podp )Ronniger",,
+"",Thymus doerfleri Ronniger,,
+"","ThymuslongicaulisCPreslsubspchaubardii (Reichenb  fil ) Jalas",,
+"",Thymus serpyllum L,Мајчина душица,****
+"",Thymus sibthorpii Bentham,,
+"",Thymus zygioides Griseb,,
+Lentibulariaceae,Pinguicula balcanica Casper,,
+"",Utricularia australis R  Br,,
+"",Utricularia vulgaris L,,
+Orobanchaceae,Orobanche esulae Pančić,,
+Orobanche pancicii G  Beck,,,
+Orobanche serbica G  Beck & Petrović,,,
+Euphrasia sp,Видац,****,
+Limosella aquatica L,,,
+Linaria alpina (L ) Miller subsp  alpina,,,
+Linaria angustissima (Loisel ) Borbás,,,
+Linaria chalepensis (L ) Miller,,,
+Linaria peloponnesiaca Boiss  & Heldr,,,
+Lindernia palustris Hartm,Љубор,1-I; 4-IV,
+"Melampyrum barbatum Waldst  & Kit  exWilld  subsp  barbatum",,,
+Melampyrum bihariense A  Kerner,,,
+"",Melampyrum doerfleri Ronniger,,,
+"",Melampyrum heracleoticum Boiss  & Orph,,,
+"",Melampyrum trichocalycinum Vandas,,,
+"",Odontites glutinosus (Bieb ) Bentham,,,
+"",Pedicularis heterodonta Pančić,,,
+"",Pedicularis hoermanniana K  Malý,,,
+"","PedicularisleucodonGrisebsubspleucodon",,,
+"",Pedicularis petiolaris Ten,,,
+"","Rhinanthusborbasii(Dörfler)Soósubspborbasii",Борбашев шушкавац,,
+"",Scrophularia aestivalis Griseb,,,
+"",Scrophularia bosniaca Beck,,,
+"",Scrophularia vernalis L  subsp  vernalis,,,
+"",Verbascum anisophyllum Murb,,,
+"",Verbascum baldaccii Degen,,,
+"",Verbascum dieckianum Borbás & Degen,,,
+"",Verbascum eriophorum Godron,,,
+"",Verbascum nicolai Rohlena,,,
+"",Veronica alpina L  subsp  alpina,,,
+"",Veronica crinita Kit,,,
+"",Veronica officinalis L,"Разгон, честославица",****,
+"",Veronica scardica Griseb  subsp  scardica,,,
+"",Veronica spuria L,,,
+"",Verbenaceae,Verbena supina L,,
+UMBELLIFLORAE,"Apiaceae (Umbelliferae)(штитоноше)","Athamantaturbith(L )Brotsubsphungarica (Borbás) Tutin",,
+"",Carum rupestre Boiss  & Heldr,,,
+"",Cervaria latifolia Andrz  ex Trautv,,,
+"",Eryngium palmatum Pančić & Vis,,,
+"",Ferula heuffelii Griseb  ex Heuffel,,,
+"","HeracleumsphondyliumLsubspverticillatum (Pančić) Brummitt",,,
+"","Holandreaschottii(BesserexDC )Reduron, Charpin & Pimenov",,,
+"",Oenanthe peucedanifolia Pollich,,,
+"",Pancicia serbica Vis,,,
+"",Pastinaca hirsuta Pančić,,,
+"",Peucedanum officinale L  subsp  officinale,,,
+"",Seseli bulgaricum P  W  Ball,,,
+"","Trinia ramosissima (Fischer ex Trev ) Kochsubsp  ramosissima",,,
+"",Cornaceae,Cornus mas L,"Дрен, дрин, дрењина",****
+URTICALES,Ulmaceae,Celtis australis L  subsp  australis,"Копривић, кошћела",
+"",Urticaceae,Parietaria serbica Pančić,,
+VIOLALES,Cistaceae,Fumana bonapartei Maire & Petitmengin,,
+Helianthemum salicifolium (L ) Miller,,,,
+"Violaceae(љубичице)",Viola elegantula Schott,,,
+Viola grisebachiana Vis,,,,
+Viola latisepala Wettst,,,,
+Viola odorata L,"Мирисна љубичица, питома љу-бичица, чубица",****,,
+Viola orphanidis Boiss,,,,
+"ViolapyrenaicaRamondexDCsubsppyrenaica",,,,
+хваћена је или мо же да буде захваће на про метом; Анекс II  – врста
+"ко јој тренут но мо жда и не прети опа сност од из умира ња, али мо-"
+же да за пре ти уко лико се промет је дин ки та кве вр сте не под вргне
+строгим про писи ма и вр ста ко ја мора да бу де под вргну та ре гу ла-
+ти ви како би се успоста ви ла ефи ка сна контро ла про мета јединки
+по једи них вр ста из овог анекса; Анекс III  – вр ста коју би ло ко ја од
+Стра на иден ти фику је као под ло жна регула тиви у окви ру њи хо ве
+"ју рисдик ци је, у циљу спре чава ња или огра нича вања екс плоата ци-"
