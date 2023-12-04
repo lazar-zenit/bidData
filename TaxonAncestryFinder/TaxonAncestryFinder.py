@@ -6,12 +6,18 @@ import time
 start=time.time()
 
 #absolute paths
-file_path_vault=os.path.abspath("Z:/Programiranje/bidData/bidData/TaxonAncestryFinder/genus_data.csv")
-file_path_database=os.path.abspath("Z:/Programiranje/bidData/bidData/TaxonAncestryFinder/Popis_mikoloska.xlsx")
+raw_vault_path=r"C:\Users\Lenovo\Documents\Programiranje\bidData\TaxonAncestryFinder\Source\genus_data.csv"
+os_path_vault=raw_vault_path.replace('\\', '/')
+vault_path = os.path.abspath(os_path_vault)
+
+raw_list_path=r"C:\Users\Lenovo\Documents\BID\ORN_VLT2023_nesredjeno.xlsx"
+os_path_list=raw_list_path.replace('\\', '/')
+list_path = os.path.abspath(os_path_list)
+
 
 #read files into dataframes
-genus_vault=pd.read_csv(file_path_vault)
-df=pd.read_excel(file_path_database, "Gljive")
+genus_vault=pd.read_csv(vault_path)
+df=pd.read_excel(list_path)
 
 
 #make new dataframe, split binomial name into genus and species, delete species name and make a list of genera
@@ -26,7 +32,7 @@ ancestry=ancestry.drop_duplicates(subset='genus', keep='first')
 ancestry=ancestry.drop(columns=['scientificName', 'taxonRank'])
 
 #save to file, excel easiest to read
-ancestry.to_excel('is_this_it.xlsx')
+ancestry.to_excel('is_this_it_ORN_VLT2023.xlsx')
 
 #stop the timer and calculate time elapsed
 end=time.time()

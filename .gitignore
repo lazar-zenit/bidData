@@ -181,3 +181,7 @@ TaxonAncestryFinder/is_this_it.xlsx
 Scrappers/output.csv
 Scrappers/PDF Scrappers/Protected species/prilog1_raw.xlsx
 Scrappers/PDF Scrappers/Protected species/prilog2_raw.xlsx
+TaxonAncestryFinder/Source/genus_data.csv
+TaxonAncestryFinder/Source/taxa.csv
+TaxonAncestryFinder/is_this_it_ORN_VLT2023.xlsx
+TaxonAncestryFinder/is_this_it_ORN_Tara.xlsx
