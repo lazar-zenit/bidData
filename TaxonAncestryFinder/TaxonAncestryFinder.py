@@ -10,7 +10,7 @@ raw_vault_path=r"C:\Users\Lenovo\Documents\Programiranje\bidData\TaxonAncestryFi
 os_path_vault=raw_vault_path.replace('\\', '/')
 vault_path = os.path.abspath(os_path_vault)
 
-raw_list_path=r"C:\Users\Lenovo\Documents\BID\ORN_VLT2023_nesredjeno.xlsx"
+raw_list_path=r"C:\Users\Lenovo\Documents\Fungarium\TAF\Fungarium_for_TAF.xlsx"
 os_path_list=raw_list_path.replace('\\', '/')
 list_path = os.path.abspath(os_path_list)
 
@@ -32,7 +32,7 @@ ancestry=ancestry.drop_duplicates(subset='genus', keep='first')
 ancestry=ancestry.drop(columns=['scientificName', 'taxonRank'])
 
 #save to file, excel easiest to read
-ancestry.to_excel('is_this_it_ORN_VLT2023.xlsx')
+ancestry.to_excel("C:/Users/Lenovo/Documents/Fungarium/TAF/is_this_it_fungarium.xlsx")
 
 #stop the timer and calculate time elapsed
 end=time.time()
