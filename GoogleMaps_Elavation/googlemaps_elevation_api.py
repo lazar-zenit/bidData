@@ -48,9 +48,9 @@ r = requests.get(serviceURL)
 y = json.loads(r.text)
 #print(y)
 
-
 # Convert output dictionary to dataframe
 results_list = y.get('results', [])
+
 # Creating a DataFrame
 output_df = pd.DataFrame([
     {
@@ -62,11 +62,12 @@ output_df = pd.DataFrame([
     for entry in results_list
 ])
 
+# Round elevation and resolution columns
 output_df['elevation'] = output_df['elevation'].round(0)
 output_df['resolution'] = output_df['resolution'].round(1)
-print(output_df)
 
-# Dodaj posle da se zaokruži visina na ceo broj, a preciznost na jednu decimalu
+# Check
+print(output_df)
 
 # Save the dataframe as excel
 output_df.to_excel("output.xlsx")
