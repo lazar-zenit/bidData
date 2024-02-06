@@ -185,3 +185,8 @@ TaxonAncestryFinder/Source/genus_data.csv
 TaxonAncestryFinder/Source/taxa.csv
 TaxonAncestryFinder/is_this_it_ORN_VLT2023.xlsx
 TaxonAncestryFinder/is_this_it_ORN_Tara.xlsx
+GoogleMaps_Elavation/coordinate.txt
+elevation_api.py
+GoogleMaps_Elavation/Fungarium_final.xlsx
+GoogleMaps_Elavation/Fungariumv_ver_6-feb-24.xlsx
+GoogleMaps_Elavation/output.txt
