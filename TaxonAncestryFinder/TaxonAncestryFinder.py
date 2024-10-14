@@ -5,20 +5,20 @@ import time
 #start the timer
 start=time.time()
 
-#absolute paths
+#absolute path to the list of all taxa
 raw_vault_path=r"C:\Users\Lenovo\Documents\Programiranje\bidData\TaxonAncestryFinder\Source\genus_data.csv"
 os_path_vault=raw_vault_path.replace('\\', '/')
 vault_path = os.path.abspath(os_path_vault)
 
-raw_list_path=r"C:\Users\Lenovo\Documents\Fungarium\TAF\Fungarium_for_TAF.xlsx"
+# table of IDs
+raw_list_path=r"C:\Users\Lenovo\Documents\Programiranje\bidData\TaxonAncestryFinder\Tara_apr_2024.xlsx"
 os_path_list=raw_list_path.replace('\\', '/')
 list_path = os.path.abspath(os_path_list)
 
 
 #read files into dataframes
 genus_vault=pd.read_csv(vault_path)
-df=pd.read_excel(list_path)
-
+df=pd.read_excel(list_path, sheet_name = 1)
 
 #make new dataframe, split binomial name into genus and species, delete species name and make a list of genera
 df2=pd.DataFrame()
@@ -32,7 +32,7 @@ ancestry=ancestry.drop_duplicates(subset='genus', keep='first')
 ancestry=ancestry.drop(columns=['scientificName', 'taxonRank'])
 
 #save to file, excel easiest to read
-ancestry.to_excel("C:/Users/Lenovo/Documents/Fungarium/TAF/is_this_it_fungarium.xlsx")
+ancestry.to_excel("C:/Users/Lenovo/Documents/Programiranje/bidData/TaxonAncestryFinder/is_this_it_Tara_ministarstvo_lisajevi.xlsx")
 
 #stop the timer and calculate time elapsed
 end=time.time()
